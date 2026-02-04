@@ -47,7 +47,6 @@ function generateMessage(noCount) {
     "Try again",
     "Really??",
     "...",
-    "Yes",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
